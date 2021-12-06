@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\BeforeMinimalTestCase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\Check.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\Classify.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\GenerationFailure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\Log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\Random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\Show.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\Any.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\Assertions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\Base64.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\Configuration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\DefaultTestListener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\FrequencyMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\ImplicitParam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\LogTestListener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\MapParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\MulticastTestListener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\ParseException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\Platform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\Property.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\PropertyContext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\ReproduceListener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\Results.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\Serialization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\StringSerialization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\TestMetadata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\TestParams.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\detail\Testing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\gen\Numeric.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\gen\Text.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\gen\detail\ExecHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\gen\detail\GenerationHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\gen\detail\Recipe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\src\gen\detail\ScaleInteger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\might\projects\orionengine2.0\OrionEngine2.0\lib\rapidcheck\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{51750965-1B43-33C0-BD2D-F124D98B61D1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

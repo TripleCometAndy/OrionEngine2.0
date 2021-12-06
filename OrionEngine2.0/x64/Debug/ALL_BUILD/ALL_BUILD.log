@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/might/projects/orionengine2.0/OrionEngine2.0/OrionEngine2.0/CMakeLists.txt
+  CMake is re-running because C:/Users/might/projects/orionengine2.0/OrionEngine2.0/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "C:/Users/might/projects/orionengine2.0/OrionEngine2.0/OrionEngine2.0" does not exist.
+  Specify --help for usage, or press the help button on the CMake GUI.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: Custom build for 'C:\Users\might\projects\orionengine2.0\OrionEngine2.0\OrionEngine2.0\CMakeLists.txt' exited with code 1.

@@ -1,0 +1,2 @@
+60
+EVENT_HANDLER_WRITEC:/Users/might/Downloads/Inputs.txt

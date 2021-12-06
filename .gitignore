@@ -1,0 +1,13 @@
+.vs
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
+CMakeFiles/
+OrionEngine2.0.vcxproj
+OrionEngine2.0.vcxproj.filters
+OrionEngine2/
+SDL2.dll
+ZERO_CHECK.vcxproj
+ZERO_CHECK.vcxproj.filters
+_deps/
+cmake_install.cmake
+out/

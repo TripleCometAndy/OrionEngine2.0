@@ -1,0 +1,10 @@
+^C:\USERS\MIGHT\PROJECTS\ORIONENGINE2.0\CMAKEFILES\8790F9BC7F8F67CC79511A0562E43754\RUN_TESTS_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

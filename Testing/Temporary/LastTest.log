@@ -1,0 +1,19 @@
+Start testing: Oct 09 14:29 Central Daylight Time
+----------------------------------------------------------
+Unable to find executable: C:/Users/might/projects/orionengine2.0/tests/bin/Debug/orion_tst.exe
+1/1 Testing: orion_tst
+1/1 Test: orion_tst
+Command: ""
+Directory: C:/Users/might/projects/orionengine2.0/tests
+"orion_tst" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"orion_tst" end time: Oct 09 14:29 Central Daylight Time
+"orion_tst" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 09 14:29 Central Daylight Time

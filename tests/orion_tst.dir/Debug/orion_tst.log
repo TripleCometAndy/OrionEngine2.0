@@ -1,0 +1,10 @@
+﻿  SystemTests.cpp
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(24,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(26,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(30,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(31,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(32,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(33,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  orion_tst.vcxproj -> C:\Users\might\projects\orionengine2.0\tests\bin\Debug\orion_tst.exe

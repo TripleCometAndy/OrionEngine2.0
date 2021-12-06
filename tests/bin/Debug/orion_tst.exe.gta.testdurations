@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\might\projects\orionengine2.0\tests\bin\Debug\orion_tst.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="blaTest.test1" Duration="1" />
+    <TestDuration Test="blaTest.test2" Duration="1" />
+    <TestDuration Test="FactorialTest.Negative" Duration="1" />
+    <TestDuration Test="FactorialTest.Zero" Duration="1" />
+    <TestDuration Test="FactorialTest.Positive" Duration="1" />
+    <TestDuration Test="IsPrimeTest.Negative" Duration="1" />
+    <TestDuration Test="IsPrimeTest.Trivial" Duration="1" />
+    <TestDuration Test="IsPrimeTest.Positive" Duration="1" />
+    <TestDuration Test="MyTestCase.copyOfStringIsIdenticalToOriginal" Duration="4" />
+    <TestDuration Test="CollisionMapTest.test1" Duration="1" />
+    <TestDuration Test="SystemTests.test1" Duration="4058" />
+  </TestDurations>
+</GtaTestDurations>

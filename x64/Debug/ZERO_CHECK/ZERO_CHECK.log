@@ -1,0 +1,11 @@
+﻿  Checking Build System
+  CMake is re-running because C:/Users/might/projects/orionengine2.0/src/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/might/projects/orionengine2.0/OrionEngine2.0/src/CMakeLists.txt'
+    is newer than 'C:/Users/might/projects/orionengine2.0/src/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  WIN32
+  -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.19042.
+  -- Could NOT find Python (missing: Python_EXECUTABLE Interpreter) 
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/might/projects/orionengine2.0

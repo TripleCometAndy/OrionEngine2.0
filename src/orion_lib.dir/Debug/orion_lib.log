@@ -1,0 +1,68 @@
+﻿  main.cpp
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(24,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(26,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(30,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(31,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(32,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(33,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  OrionLoop.cpp
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(24,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(26,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(30,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(31,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(32,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(33,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  EventHandler.cpp
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(24,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(26,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(30,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(31,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(32,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(33,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  EventHandlerImpl.cpp
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(24,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(26,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(30,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(31,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(32,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(33,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  EntityManager.cpp
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(24,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(26,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(30,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(31,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(32,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(33,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\src\EntityManager.cpp(115,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\src\EntityManager.cpp(126,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  EventHandlerRead.cpp
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(24,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(26,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(30,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(31,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(32,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(33,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\src\EventHandlerRead.cpp(56,15): warning C4101: 'e': unreferenced local variable
+  EventHandlerWrite.cpp
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(24,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(26,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(30,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(31,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(32,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\might\projects\orionengine2.0\OrionEngine2.0\include\Hitbox.h(33,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  orion_lib.vcxproj -> C:\Users\might\projects\orionengine2.0\src\Debug\orion_lib.lib

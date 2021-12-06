@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\might\projects\orionengine2.0\CMakeFiles\8790f9bc7f8f67cc79511a0562e43754\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{458318BC-3131-3318-9321-EA3EFB6798C9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
